@@ -65,7 +65,7 @@ class _EditProfileScreenState extends State<EditProfileScreen> {
             ),
             const SizedBox(height: 20),
             const Text(
-                'We recommend an image of\nat least 800x800px.',
+                'Coba  - coba \n cihuy.',
                 textAlign: TextAlign.center,
                 style: TextStyle(color: Colors.grey)
             ),
